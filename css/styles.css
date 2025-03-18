@@ -10,4 +10,36 @@ h1 {
   color: #333;
 }
 
+.capsula{
+  border: 1px solid;
+  border-color: grey;
+  border-radius: 15px;
+  width: 550px;
+}
 
+article{
+  display: flex;
+  padding: 5px 5px;
+}
+img{
+  height: 200px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 15px;
+}
+.persona{
+  padding: 0px 5px;
+  border: 1px solid;
+  border-color: grey;
+  border-radius: 15px;
+  height: 200px;
+  width: 350px;
+  background-color: white;
+}
+
+ul{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  
+}
